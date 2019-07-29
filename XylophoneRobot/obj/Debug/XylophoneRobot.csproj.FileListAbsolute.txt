@@ -1,0 +1,153 @@
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190415\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190514\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 수정판\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 V2\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.Cache
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+G:\XylophoneRobot_20190522 ver. 0.03\XylophoneRobot\obj\Debug\XylophoneRobot.csprojResolveAssemblyReference.cache
+G:\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+G:\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+G:\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+G:\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\Xylobot_20190525\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.02\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+E:\1.CA\01.C#\02.XylophonePlayer\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe.config
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.exe
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Debug\XylophoneRobot.pdb
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.frmMain.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.Properties.Resources.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.RobotSetting.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.GenerateResource.cache
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.exe
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.pdb
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Debug\XylophoneRobot.csprojAssemblyReference.cache

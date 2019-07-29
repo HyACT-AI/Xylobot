@@ -1,0 +1,41 @@
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Release\XylophoneRobot.exe.config
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Release\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\bin\Release\XylophoneRobot.pdb
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.frmMain.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.Properties.Resources.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.RobotSetting.resources
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.GenerateResource.cache
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.exe
+D:\230_Xylophone_Robot_SW\XylophoneRobot\XylophoneRobot\obj\Release\XylophoneRobot.pdb
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Release\XylophoneRobot.exe.config
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Release\XylophoneRobot.exe
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\bin\Release\XylophoneRobot.pdb
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.frmMain.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.Properties.Resources.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.RobotSetting.resources
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.csproj.GenerateResource.cache
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.exe
+D:\이상묵\홈페이지\Xylobot_20190525 ver. 1.03\XylophoneRobot\obj\Release\XylophoneRobot.pdb
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\bin\Release\Xylobot.exe.config
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\bin\Release\Xylobot.exe
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\bin\Release\Xylobot.pdb
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.frmMain.resources
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.Properties.Resources.resources
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.RobotSetting.resources
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.GenerateResource.cache
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\Xylobot.exe
+D:\Dev\Xylophone\PC\Xylobot\XylophoneRobot\obj\Release\Xylobot.pdb
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\bin\Release\Xylobot.exe.config
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\bin\Release\Xylobot.exe
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\bin\Release\Xylobot.pdb
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.csprojAssemblyReference.cache
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.frmMain.resources
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.Properties.Resources.resources
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.RobotSetting.resources
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.GenerateResource.cache
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\XylophoneRobot.csproj.CoreCompileInputs.cache
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\Xylobot.exe
+D:\Dev\Xylophone\PC\Github\Xylobot\XylophoneRobot\obj\Release\Xylobot.pdb
