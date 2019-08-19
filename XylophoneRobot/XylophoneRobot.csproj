@@ -48,7 +48,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Icon-Xylophone.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -118,7 +119,6 @@
     <None Include="Resource\0%2840x57%29.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Icon-Xylophone.ico" />
     <None Include="Resource\Music\Background_4_4%281088x438%29.png" />
   </ItemGroup>
   <ItemGroup>

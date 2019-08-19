@@ -57,7 +57,7 @@ namespace XylophoneRobot
         bool bPushStopTestButton = false;
 
         // 불러오기 & 저장하기 관련 변수
-        string FilePath;        // 파일 저장 위치        
+        string FilePath = Application.StartupPath + @"\\MusicList";        // 파일 위치        
         bool bCheckSave = true; // 저장 후 파일의 변화가 있는지 확인하는 변수
 
         // User control
@@ -480,7 +480,7 @@ namespace XylophoneRobot
                 case 4: packet = controller.Write_LEDControl(  0, 200,   0); break;
                 case 5: packet = controller.Write_LEDControl(  0,  84, 200); break;
                 case 6: packet = controller.Write_LEDControl(  0,   0, 200); break;
-                case 7: packet = controller.Write_LEDControl(113,   0, 200); break;
+                case 7: packet = controller.Write_LEDControl(113,  18, 200); break;
                 case 8: packet = controller.Write_LEDControl(200,   0,   0); break;
                 case 9: packet = controller.Write_LEDControl(100, 200, 100); break;
             }
@@ -832,7 +832,8 @@ namespace XylophoneRobot
             saveFileDialog.Filter = "Text Files (*.txt)|*.txt";
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
-                if(FilePath == null) FilePath = saveFileDialog.FileName;
+                FilePath = null;
+                FilePath = saveFileDialog.FileName;
                 music.SaveMusic(FilePath);
                 bCheckSave = true;
             }
@@ -951,7 +952,7 @@ namespace XylophoneRobot
             StopMusic();
             if(bPushStopTestButton == false)
             {
-                RobotGoPosition_Event(0, 512, 423, 294);
+                robotSetting.GoMiddlePosition();
             }
             bPushStopTestButton = false;
         }

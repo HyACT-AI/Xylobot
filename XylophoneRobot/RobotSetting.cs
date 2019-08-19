@@ -341,39 +341,39 @@ namespace XylophoneRobot
             if (nScale == 9) // 쉼표
             {
                 //다음 음 위치로 이동함
-                TargetAngle[0] = (int)(rPara.Angle[nNextScale, 0] / (rPara.ANGLE_RATIO * rPara.Dir[0]) + rPara.OriginVal[0]) + rPara.H_Position_Offset;
+                TargetAngle[0] = (int)(rPara.Angle[nNextScale, 0] / (rPara.ANGLE_RATIO * rPara.Dir[0]) + rPara.OriginVal[0]);
                 this.RobotGoPositionEvent(1, TargetAngle[0], 0, 0);
             }
             else
             {
                 //[Step1] 목표음계 위쪽으로 이동 (시간 : 수평 이동 시간(rPara.H_Moving_Time) - 약 80msce)
                 CurStartTime = System.DateTime.Now.Ticks;
-                TempAngle[0] = TargetAngle[0] + rPara.H_Position_Offset;
+                TempAngle[0] = TargetAngle[0];
                 TempAngle[1] = TargetAngle[1];
-                TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
+                TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset;
                 this.RobotGoPositionEvent(BROADCAST_ID, TempAngle[0], TempAngle[1], TempAngle[2]);
                 CurrentTime = System.DateTime.Now.Ticks;
-                TimeGap = (CurrentTime - CurStartTime) / 10000; 
+                TimeGap = (CurrentTime - CurStartTime) / 10000;
                 nTmpSleepTime = rPara.H_Moving_Time - TimeGap;
                 if (nTmpSleepTime > 0) Delay(nTmpSleepTime);
 
                 //[Step2] 목표음계 건반으로 내려 침 (시간 : 수직 이동 시간(rPara.V_Moving_Time) - 약 50msce)
                 CurStartTime = System.DateTime.Now.Ticks;
-                TempAngle[0] = TargetAngle[0] + rPara.H_Position_Offset;
+                TempAngle[0] = TargetAngle[0];
                 TempAngle[1] = TargetAngle[1];
-                TempAngle[2] = TargetAngle[2] + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
+                TempAngle[2] = TargetAngle[2] + rPara.V_Position_defaultOffset;
                 this.RobotGoPositionEvent(BROADCAST_ID, TempAngle[0], TempAngle[1], TempAngle[2]);
                 this.RobotSetLEDEvent(nScale); //LED Control
                 CurrentTime = System.DateTime.Now.Ticks;
-                TimeGap = (CurrentTime - CurStartTime) / 10000;  
+                TimeGap = (CurrentTime - CurStartTime) / 10000;
                 nTmpSleepTime = rPara.V_Moving_Time - TimeGap;
                 if (nTmpSleepTime > 0) Delay(nTmpSleepTime);
 
                 //[Step3] 다시 위쪽으로 들어 올림. (시간 : 수직 이동 시간의 반(rPara.V_Moving_Time / 2) - 약 50msce / 2)
                 CurStartTime = System.DateTime.Now.Ticks;
-                TempAngle[0] = TargetAngle[0] + rPara.H_Position_Offset;
+                TempAngle[0] = TargetAngle[0];
                 TempAngle[1] = TargetAngle[1];
-                TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
+                TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset;
                 this.RobotGoPositionEvent(BROADCAST_ID, TempAngle[0], TempAngle[1], TempAngle[2]);
                 CurrentTime = System.DateTime.Now.Ticks;
                 TimeGap = (CurrentTime - CurStartTime) / 10000;
@@ -385,9 +385,9 @@ namespace XylophoneRobot
                 {
                     if (nTmpSleepTime > 0)
                     {
-                        TargetAngle[0] = (int)(rPara.Angle[nNextScale, 0] / (rPara.ANGLE_RATIO * rPara.Dir[0]) + rPara.OriginVal[0]) + rPara.H_Position_Offset;
+                        TargetAngle[0] = (int)(rPara.Angle[nNextScale, 0] / (rPara.ANGLE_RATIO * rPara.Dir[0]) + rPara.OriginVal[0]);
                         TargetAngle[1] = (int)(rPara.Angle[nNextScale, 1] / (rPara.ANGLE_RATIO * rPara.Dir[1]) + rPara.OriginVal[1]);
-                        TargetAngle[2] = (int)(rPara.Angle[nNextScale, 2] / (rPara.ANGLE_RATIO * rPara.Dir[2]) + rPara.OriginVal[2]) + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
+                        TargetAngle[2] = (int)(rPara.Angle[nNextScale, 2] / (rPara.ANGLE_RATIO * rPara.Dir[2]) + rPara.OriginVal[2]) + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset;
                         this.RobotGoPositionEvent(BROADCAST_ID, TargetAngle[0], TargetAngle[1], TargetAngle[2]);
                     }
                 }
@@ -407,9 +407,9 @@ namespace XylophoneRobot
             TargetAngle[1] = (int)(rPara.Angle[nScale, 1] / (rPara.ANGLE_RATIO * rPara.Dir[1]) + rPara.OriginVal[1]);
             TargetAngle[2] = (int)(rPara.Angle[nScale, 2] / (rPara.ANGLE_RATIO * rPara.Dir[2]) + rPara.OriginVal[2]);
 
-            TempAngle[0] = TargetAngle[0] + rPara.H_Position_Offset;
+            TempAngle[0] = TargetAngle[0];
             TempAngle[1] = TargetAngle[1];
-            TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
+            TempAngle[2] = TargetAngle[2] + rPara.V_Moving_Offset + rPara.V_Position_defaultOffset;
 
             this.RobotGoPositionEvent(BROADCAST_ID, TempAngle[0], TempAngle[1], TempAngle[2]);
 
@@ -428,7 +428,7 @@ namespace XylophoneRobot
                 TargetAngle[1] = (int)(rPara.Angle[nNum, 1] / (rPara.ANGLE_RATIO * rPara.Dir[1]) + rPara.OriginVal[1]);
                 TargetAngle[2] = (int)(rPara.Angle[nNum, 2] / (rPara.ANGLE_RATIO * rPara.Dir[2]) + rPara.OriginVal[2]);
 
-                TempAngle[0] = TargetAngle[0] + rPara.H_Position_Offset;
+                TempAngle[0] = TargetAngle[0];
                 TempAngle[1] = TargetAngle[1];
                 TempAngle[2] = TargetAngle[2] - 20;// + rPara.V_Moving_Offset + rPara.V_Position_Offset;
 
@@ -436,8 +436,15 @@ namespace XylophoneRobot
                 Delay(30);
             }
 
-            TempAngle[2] += rPara.V_Moving_Offset + rPara.V_Position_defaultOffset + rPara.V_Position_Offset;
-            this.RobotGoPositionEvent(3, TempAngle[2], 0 , 0);
+            TempAngle[2] += rPara.V_Moving_Offset + rPara.V_Position_defaultOffset;
+            this.RobotGoPositionEvent(3, TempAngle[2], 0, 0);
+        }
+
+        // 연주 후 실로폰 중앙으로 실로폰 채를 이동
+        public void GoMiddlePosition()
+        {
+            Delay(500);
+            this.RobotGoPositionEvent(0, 512, 423, 294);
         }
 
         private void Delay(long interval)
